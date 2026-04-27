@@ -1,6 +1,6 @@
 # HoQ-FMECA-Analysis-
 
-This project presents a Quality Engineering analysis for the conceptual design and risk assessment of a smart robotic vacuum cleaner targeted at families with children and pets. The study applies structured design and reliability methodologies to translate customer needs into technical characteristics, benchmark the product against market competitors, and identify the most critical failure modes affecting product performance and user satisfaction.
+This project presents a Quality Engineering analysis for the course of Quality Engineering for the Politecnico di Torino the conceptual design and risk assessment of a smart robotic vacuum cleaner targeted at families with children and pets. The study applies structured design and reliability methodologies to translate customer needs into technical characteristics, benchmark the product against market competitors, and identify the most critical failure modes affecting product performance and user satisfaction.
 
 The project was developed as part of the Quality Engineering course at Politecnico di Torino and focuses on the early-stage design of a domestic cleaning robot capable of meeting the specific needs of households characterized by frequent cleaning requirements, pet hair, food residues, allergens, and the need for safe and quiet operation.
 
